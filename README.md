@@ -1,6 +1,6 @@
 ## boas vindas ao meu perfil 😸
 
-Meu nome é Arieli Friedrich
+Meu nome é **Arieli Friedrich**
 
 - Estou estudando no Alura 
 - Estou me desenvolvendo na linguagem de programação
